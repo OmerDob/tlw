@@ -1,0 +1,27 @@
+{
+    "top_nav": {
+        "brand": "TLV Lambazouk Weekend",
+        "about": "About",
+        "cta_button": "Buy Your Pass Now!"
+    },
+    "jumbotron": {
+        "brand": "TLV Lambazouk Weekend 2018",
+        "dates": "26-28/4",
+        "cta_button": "Buy Your Pass Now!"
+    },
+    "about": {
+        "header": "About TLV Lambazouk Weekend",
+        "workshops": {
+            "header": "Workshops",
+            "content": "A whole day of lambazouk workshops with the best teachers from around the world."
+        },
+        "parties": {
+            "header": "Parties",
+            "content": "Three amazing parties with with the best of lambazouk music."
+        },
+        "tlv": {
+            "header": "Tel-Aviv",
+            "content": "The non-stop city in the heart of Israel."
+        }
+    }
+}

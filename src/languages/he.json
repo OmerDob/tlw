@@ -1,0 +1,27 @@
+{
+    "top_nav": {
+        "brand": "TLV Lambazouk Weekend",
+        "about": "עלינו",
+        "cta_button": "קנה כרטיס עכשיו!"
+    },
+    "jumbotron": {
+        "brand": "TLV Lambazouk Weekend 2018",
+        "dates": "26-28/4",
+        "cta_button": "קנה כרטיס עכשיו!"
+    },
+    "about": {
+        "header": "על סופ\"ש הלמבזוק בתל-אביב",
+        "workshops": {
+            "header": "סדנאות",
+            "content": "יום שלם של סדנאות למבזוק עם מיטב האומנים מסביב לעולם."
+        },
+        "parties": {
+            "header": "מסיבות",
+            "content": "שלוש מסיבות מדהימות עם מיטב מוסיקת הלמבזוק."
+        },
+        "tlv": {
+            "header": "תל-אביב",
+            "content": "עיר ללא הפסקה בלב ישראל."
+        }
+    }
+}

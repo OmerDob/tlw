@@ -1,0 +1,4 @@
+.avatar {
+    max-width: 500px;
+    clip-path: circle(110px at center);
+}
